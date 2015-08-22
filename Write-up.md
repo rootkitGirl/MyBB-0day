@@ -2,8 +2,8 @@ So here we're going to start,
 first I'm going to show proof that I have serveral MyBB 0day's including critical vulnerabilities/exploits. 
 The proof is located [here] (https://github.com/rootkitGirl/MyBB-0day/blob/master/PoC).
 
-*Versions affected: 1.6x & 1.8x*
-*Versions tested: 1.8.3 (latest), and 1.6.16 (latest for 1.6 series)*
+- *Versions affected: 1.6x & 1.8x*
+- *Versions tested: 1.8.3 (latest), and 1.6.16 (latest for 1.6 series)*
 
 So I was playing with MyBB and monitoring requests, and noticed a few things which led to a pretty decent bugs. These are all from personal findings testing on multiple sites.
 
