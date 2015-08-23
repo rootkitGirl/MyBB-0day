@@ -5,7 +5,7 @@ Host: localhost
 Type: mysql
 DB: bitleak_forum
 User: bitleak_admin
-Pass: Vb3]3^&z-xRf
+Pass: Vb3]3^&****** (*unauthorized access is illegal*)
 BACKEND:
 Romania - 188.240.220.6
 cPanel User: bitleak
